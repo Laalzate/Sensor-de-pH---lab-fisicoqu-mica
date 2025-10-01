@@ -1,1 +1,1 @@
-# Sensor-de-pH---lab-fisicoqu-mica
+Se determinará  el pH a diversas sustancias que se encuentran en casa para poder corroborar que el sensor esté calibrado; posteriormente se estudiará  la valoración de bicarbonato de sodio con ácido acético proveniente del vinagre donde se seguirá el proceso de titulación por el cambio del pH.
